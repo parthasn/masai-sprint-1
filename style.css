@@ -1,0 +1,158 @@
+@media only screen and (min-width: 600px) {
+    #id { 
+        background-color:rgb(224, 241, 247);
+    }
+.class3  {
+   display:flex;
+    
+}
+
+#id0{
+   flex-direction: coloumn;
+}
+.class1 {
+    
+    height:33%;
+    border:1px dashed green;
+   
+}
+.class5 {
+    font-size:50px;
+    margin:5px;
+}
+.class6 {
+    font-size:60px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+.class7 {
+    font-size:50px;
+}
+.class2 {
+  height:80%;
+  margin-top:0px;
+  margin-bottom:10px;
+  
+} 
+.class4 {
+    width: 100%;
+    border:1px dashed blue;
+    min-height:100px;
+    margin:10px;
+    padding:20px;
+    text-align:center;
+}
+.class8 {
+    font-size:80px;
+}
+#id00 {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: auto auto ;
+    grid-template-rows: auto auto auto auto; 
+    background: whitek;
+    padding: 20px;
+  }
+  
+  #id00 div {
+    background: rgb(224, 241, 247);;
+    font-size: 30px;
+    text-align: center;
+  }
+  .class00 {
+        width:400px;
+        margin:10px;
+        border-radius:200px;
+        text-align:left;
+  }
+}
+@media only screen and (min-width: 992px) {
+    #id { 
+        background-color:rgb(224, 241, 247);
+    }
+#id0 {
+   
+   height:98%;
+   width:95%;
+  border:1px dashed red;
+    margin:auto;
+    padding:20px;
+    text-align:center;
+    
+}
+
+.class0 {
+    width:70%;
+    
+    border:1px dashed green;
+    text-align:left;
+    
+    float:left;
+}
+.class1 {
+    width:20%;
+   
+    border:1px dashed green;
+    float:right;
+}
+.class5 {
+    font-size:50px;
+    margin:5px;
+}
+.class6 {
+    font-size :70px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+.class2 {
+  height:60%;
+  margin:20px;
+}
+.class7 {
+    font-size:60px;
+}
+#id1 {
+    width: 96%; 
+    height:100%;
+    border:1px dashed blue;
+    margin:auto;
+    padding:10px;
+    text-align:center;
+   
+
+}
+
+.class8 {
+    font-size:50px;
+}
+#id00 {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: auto auto ;
+    grid-template-rows: auto auto auto auto; 
+    background: whitek;
+    padding: 20px;
+  }
+  
+  #id00 div {
+    background: rgb(224, 241, 247);;
+    font-size: 30px;
+    text-align: center;
+  }
+  .class00 {
+      width:450px;
+      margin:10px;
+      border-radius:300px;
+      text-align:left;
+  }
+  .class01 {
+     text-align:center;
+    
+  }
+  .class02 {
+      float:left;
+  }
+  .class03 {
+    float:right;
+}
+}
